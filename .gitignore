@@ -132,4 +132,4 @@ dmypy.json
 .DS_store
 thumbs.db
 
-cakd_LP/DATA/
+DATA/
