@@ -132,4 +132,7 @@ dmypy.json
 .DS_store
 thumbs.db
 
+# 원본데이터
 DATA/
+# 피클파일
+*.pkl
