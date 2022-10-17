@@ -135,3 +135,4 @@ thumbs.db
 DATA/
 # 피클파일
 *.pkl
+*.pickle
